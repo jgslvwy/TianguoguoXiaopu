@@ -19,10 +19,6 @@ function formatNumber(n) {
   return n[1] ? n : '0' + n
 }
 
-
-
-
-
 /**
  * 甜果果微信的的request
  */
